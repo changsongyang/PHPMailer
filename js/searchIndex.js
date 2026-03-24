@@ -988,7 +988,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\PHPMailer\\PHPMailer\\PHPMailer\u003A\u003A\u0024IcalMethods",
             "name": "IcalMethods",
-            "summary": "Value\u002Darray\u0020of\u0020\u0022method\u0022\u0020in\u0020Contenttype\u0020header\u0020\u0022text\/calendar\u0022",
+            "summary": "Value\u002Darray\u0020of\u0020\u0022method\u0022\u0020in\u0020Content\u002Dtype\u0020header\u0020\u0022text\/calendar\u0022",
             "url": "classes/PHPMailer-PHPMailer-PHPMailer.html#property_IcalMethods"
         },                {
             "fqsen": "\\PHPMailer\\PHPMailer\\PHPMailer\u003A\u003A\u0024MIMEBody",
